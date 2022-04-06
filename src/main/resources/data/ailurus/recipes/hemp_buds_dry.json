@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "ailurus:hemp_buds"
+  },
+  "result": "ailurus:hemp_buds_dry",
+  "experience": 0.35,
+  "cookingtime": 200
+}
